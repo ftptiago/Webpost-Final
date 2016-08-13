@@ -1,0 +1,21 @@
+######################
+Criado por: Fabrício Paixão
+Canal Youtube: https://www.youtube.com/user/ftptiago
+Data: 28/12/2015
+######################
+
+Instruções para criar um novo banco de dados no MYSQL.
+
+1º - Utilize o phpmyadmin para acessar o mysql, login com usuário e senha cadastrados na
+instalação do mesmo. Exemplo: usuário root, no password deixe em branco ou senha que colocou. 
+
+2º - Clique em Banco de dados.
+
+3º - Onde esta excrito Criar banco de dados, digite o nome "webpost" sem aspas, no campo seguinte selecione utf8_unicode_ci e clique em criar.
+
+4º - Clique no nome do banco de dados no menu lateral, na tela que abriu clique em importar, selecione o arquivo webpost.sql que esta na pasta banco de dados do tutorial.
+
+5º - Clique  no botão Executar. Pronto, seu banco de dados esta criado!  
+
+
+
